@@ -26,6 +26,10 @@ datetime.date(2014, 3, 31)
 '1393'
 ```
 
+Run tests
+--------
+- ```python -m unittest test/test_persian.py```
+
 Original License
 ----------------
 As mentioned in http://jdf.scr.ir/, the original code is free and open source, and you are not allowed to sell it. You can read more in http://jdf.scr.ir/.
